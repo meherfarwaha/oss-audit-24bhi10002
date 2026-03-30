@@ -1,6 +1,6 @@
 
-STUDENT_NAME="[MEHER GAGAN FARWAHA]"      
-REG_NO="[24BHI10002]"          
+STUDENT_NAME="[KASHVI SINGH]"      
+REG_NO="[24BSA10178]"          
 SOFTWARE_CHOICE="Git"           
 
 KERNEL=$(uname -r)               
